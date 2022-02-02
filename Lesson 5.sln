@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson 5", "Lesson 5\Lesson 5.csproj", "{52350215-BD1B-48AC-8970-5523AB4545E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sof Miyun", "Sof Miyun\Sof Miyun.csproj", "{0CFB4163-32E6-42AE-96D8-FB1B1A50DF34}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Targil9", "Targil9\Targil9.csproj", "{D1454270-8C09-4B0F-A9A6-5338C81CBB81}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52350215-BD1B-48AC-8970-5523AB4545E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52350215-BD1B-48AC-8970-5523AB4545E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52350215-BD1B-48AC-8970-5523AB4545E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52350215-BD1B-48AC-8970-5523AB4545E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0CFB4163-32E6-42AE-96D8-FB1B1A50DF34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CFB4163-32E6-42AE-96D8-FB1B1A50DF34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CFB4163-32E6-42AE-96D8-FB1B1A50DF34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CFB4163-32E6-42AE-96D8-FB1B1A50DF34}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1454270-8C09-4B0F-A9A6-5338C81CBB81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1454270-8C09-4B0F-A9A6-5338C81CBB81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1454270-8C09-4B0F-A9A6-5338C81CBB81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1454270-8C09-4B0F-A9A6-5338C81CBB81}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0B4726B5-7E7C-46BA-81E1-76A7A699B050}
+	EndGlobalSection
+EndGlobal
